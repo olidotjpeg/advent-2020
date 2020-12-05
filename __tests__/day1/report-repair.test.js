@@ -1,4 +1,3 @@
-const { expect } = require('@jest/globals');
 import {repairReport, repairReportThree} from '../../src/report-repair';
 import {inputOli, inputThiemo} from './input';
 
